@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": {
     "name": "Bakang Monei",
-    
+    "email": "bakangmonei2@gmail.com"
   },
   "scripts": {
     "start": "expo start",
