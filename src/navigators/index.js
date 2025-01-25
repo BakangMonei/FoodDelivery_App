@@ -30,7 +30,6 @@ const Navigators = () => {
   }, []);
 
   return (
-    <NavigationContainer>
       <Stack.Navigator screenOptions={{ headerShown: false }}>
         {isAppLoading ? (
           <Stack.Screen name="Splash" component={SplashScreen} />
@@ -59,7 +58,6 @@ const Navigators = () => {
           </>
         )}
       </Stack.Navigator>
-    </NavigationContainer>
   );
 };
 

@@ -1,5 +1,5 @@
 import Colors from "./Colors";
-import Images from "./Images";
+import Images from "./images";
 import General from "./General";
 import CountryCode from "./CountryCode";
 import ApiContants from "./ApiConstants";
