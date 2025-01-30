@@ -1,8 +1,8 @@
 const config = require("../../package.json").projectConfig;
-const BACKEND_BASE_URL = config.backendApiBaseUrl;
+const BACKEND_BASE_URL = config.backe ndApiBaseUrl;
 
 const COUNTRY_FLAG = {
-  BASE_URL: `https://www.countryflags.io`,
+  BASE_URL: ``,
   SIZE: { 16: "16", 24: "24", 32: "32", 48: "48", 64: "64" },
   STYLE: { FLAT: "flat", SHINY: "shiny" },
 };
