@@ -1,5 +1,5 @@
 const config = require("../../package.json").projectConfig;
-const BACKEND_BASE_URL = config.backe ndApiBaseUrl;
+const BACKEND_BASE_URL = config.backendApiBaseUrl;
 
 const COUNTRY_FLAG = {
   BASE_URL: ``,
